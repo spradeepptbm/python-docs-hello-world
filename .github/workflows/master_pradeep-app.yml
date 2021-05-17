@@ -59,4 +59,4 @@ jobs:
         with:
           app-name: 'pradeep-app'
           slot-name: 'production'
-          publish-profile: ${{ secrets.AzureAppService_PublishProfile_89e22f344ab0419a85502aaa960ff317 }}
+          publish-profile: ${{ secrets.AzureAppService_PublishProfile_68a0d0f6f7c34e4d9f745a8fa2f84758 }}
